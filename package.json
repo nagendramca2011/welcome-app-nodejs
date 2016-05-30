@@ -1,5 +1,5 @@
 {
-  "name": "'upgrade-device",
+  "name": "'welcome-app",
   "version": "1.0.0",
   "description": "Device upgrade System",
   "main": "server.js",
@@ -8,12 +8,9 @@
     "start": "node server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://nagendramca4u@bitbucket.org/nagendramca4u/upgrade-device.git"
+    "type": "git"  
   },
-  "author": "Nagendra reddy",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/nagendramca4u/upgrade-device#readme",
+  "author": "Nagendra reddy",  
   "devDependencies": {
     "express": "^4.13.4"
   }
