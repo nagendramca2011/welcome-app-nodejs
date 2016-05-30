@@ -1,0 +1,20 @@
+{
+  "name": "'upgrade-device",
+  "version": "1.0.0",
+  "description": "Device upgrade System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nagendramca4u@bitbucket.org/nagendramca4u/upgrade-device.git"
+  },
+  "author": "Nagendra reddy",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/nagendramca4u/upgrade-device#readme",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
